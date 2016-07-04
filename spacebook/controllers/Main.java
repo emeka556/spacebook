@@ -4,7 +4,6 @@ package controllers;
  * @file    Main.java
  * @brief   Class to initialize and run spacebook application
  * @version 2015-4-22
- * @author  jfitzgerald
  */
 
 import ie.wit.io.ictskills.In;
