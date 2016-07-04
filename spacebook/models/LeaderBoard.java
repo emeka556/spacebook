@@ -3,7 +3,6 @@ package models;
 * @file    LeaderBoard.java
 * @brief   Class publishes users graded most socially and talkatively active
 * @version 2015-4-22
-* @author  
 */
 
 import java.util.ArrayList;
