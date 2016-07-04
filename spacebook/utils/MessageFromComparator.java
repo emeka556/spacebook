@@ -9,8 +9,6 @@ import models.Message;
  * and second names of the originator of 2 message objects Example: Message o1
  * has a User from that has String firstName and String lastName The comparison
  * is between firstName+lastName in both messages' originators.
- * 
- * @author jfitzgerald
  *
  */
 public class MessageFromComparator implements Comparator<Message> {
